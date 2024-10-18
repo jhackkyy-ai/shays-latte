@@ -1,8 +1,6 @@
-header{
-	transform: scale(0.7);
-	transform: scale(0.7);
-	transform: scale(0.7);
-	transform: scale(0.7);
-	transform: scale(0.7);
+h2{
+	resize: 50px;
+	color: lightpink;
+	
 }
 
